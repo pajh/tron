@@ -1,0 +1,51 @@
+30/5 13:58 WINRATES nn0=20.9% nn1=22.2% flood=48.6% long8.3%, games played 1000, imp 11.9%
+30/5 14:01 WINRATES nn0=24.2% nn1=22.9% flood=44.1% long=8.8%, games played 1000, imp 9.5%
+30/5 14:15 WINRATES nn0=22.2% nn1=23.1% flood=46.7% long=8.0%, games played 1000, imp 11.1%
+--training session 1 - 0.9095698046518359
+30/5 14:24 WINRATES nn0=23.5% nn1=23.2% flood=44.9% long=8.4%, games played 5000, imp 11.7%
+train
+30/5 14:40 WINRATES nn0=22.2% nn1=23.6% flood=45.2% long=8.9%, games played 5000, imp 11.1%
+train
+                   WINRATES nn0=21.3% nn1=22.2% flood=47.7% long=8.8%, games played 5000, imp 13.1%
+
+------------------------
+untrained
+WINRATES nn0=0.4% nn1=0.4% flood=87.2% long=12.1%, games played 5000, imp 6.4%
+training - 0.4864495545080419 (plus warning)
+WINRATES nn0=0.3% nn1=0.3% flood=85.9% long=13.5%, games played 5000, imp 8.3%
+training 0.6720198767088283
+WINRATES nn0=0.4% nn1=0.5% flood=86.6% long=12.5%, games played 5000, imp 7.4%
+????????????????????????????????
+
+------------------------
++- 0.1 
+initial pre-train 0.8464769299415813
+WINRATES nn0=23.0% nn1=22.0% flood=46.2% long=8.9%, games played 5000, imp 11.6%
+training 0.8699245460642867
+WINRATES nn0=22.7% nn1=23.8% flood=44.4% long=9.2%, games played 5000, imp 11.5%
+
+-------------------restart 0.84
++/- 0.2
+WINRATES nn0=26.0% nn1=26.4% flood=41.2% long=6.3%, games played 5000, imp 10.6%
+0.751 :(
+WINRATES nn0=25.8% nn1=27.5% flood=39.3% long=7.4%, games played 5000, imp 12.0%
+0.721 :(
+WINRATES nn0=27.1% nn1=26.8% flood=39.1% long=6.9%, games played 5000, imp 11.4%
+0.703
+
+------ RESTART 0.865 Upgraded min max scoring
+WINRATES nn0=22.6% nn1=21.4% flood=46.3% long=9.6%, games played 5000, imp 11.6%
+training 0.756
+--------- RESTART 2 layer 12x12 0.877978
+WINRATES nn0=18.6% nn1=23.0% flood=50.0% long=8.4%, games played 1000, imp 12.6%
+0.828
+WINRATES nn0=23.3% nn1=25.2% flood=45.5% long=6.0%, games played 1000, imp 10.8%
+0.836
+WINRATES nn0=24.3% nn1=23.8% flood=44.3% long=7.6%, games played 1000, imp 9.8%
+0.823
+WINRATES nn0=23.6% nn1=23.1% flood=44.7% long=8.6%, games played 1000, imp 12.5%
+0.823
+WINRATES nn0=23.6% nn1=23.2% flood=45.9% long=7.2%, games played 5000, imp 11.9%
+RANDOM +0.1/-0.1 DROPS TO 0.808 :(
+
+

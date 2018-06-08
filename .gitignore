@@ -1,0 +1,9 @@
+
+/target
+**/*.rs.bk
+
+append.txt
+train*.txt
+.vscode
+current.txt
+target
