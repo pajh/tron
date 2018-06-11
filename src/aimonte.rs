@@ -16,6 +16,7 @@ use std::time::{Duration, Instant};
 #[derive(Clone, Copy)]
 struct PP {
     x: u8,
+ 
     y: u8,
 }
 #[derive(Clone, Copy)]
